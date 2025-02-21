@@ -68,7 +68,7 @@ namespace Assignment2.Controllers
         /// <example>
         /// POST:https://localhost:7090/api/J1/mealcost-> 22
         /// </example>
-        ///  /// POST DATA/FORM DATA/REQUEST BODY: redplate=6&greenplate=9&blueplate=0
+        /// POST DATA/FORM DATA/REQUEST BODY: redplate=6&greenplate=9&blueplate=0
         /// <example>
         /// POST:https://localhost:7090/api/J1/mealcost-> 22
         /// </example>
@@ -95,7 +95,7 @@ namespace Assignment2.Controllers
         /// <example>
         /// POST:https://localhost:7090/api/J2/size-> 19
         /// </example>
-        /// /// POST DATA/FORM DATA/REQUEST BODY: inputsize=10&inputsize=10&inputsize=3&inputsize=5
+        /// POST DATA/FORM DATA/REQUEST BODY: inputsize=10&inputsize=10&inputsize=3&inputsize=5
         /// <example>
         /// POST:https://localhost:7090/api/J2/size-> 10
         /// </example>
@@ -181,7 +181,7 @@ namespace Assignment2.Controllers
         /// <example>
         /// POST:https://localhost:7090/api/J3/bronzeMedal-> 62 1
         /// </example>
-        /// /// POST DATA/FORM DATA/REQUEST BODY: values=8&values=75&values=70&values=60&values=70&values=70&values=60&values=75&values=70
+        /// POST DATA/FORM DATA/REQUEST BODY: values=8&values=75&values=70&values=60&values=70&values=70&values=60&values=75&values=70
         /// <example>
         /// POST:https://localhost:7090/api/J3/bronzeMedal-> 60 2
         /// </example>
